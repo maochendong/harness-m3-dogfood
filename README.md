@@ -1,1 +1,1 @@
-# harness-m3-dogfood
+disposable m3 dogfood repository
